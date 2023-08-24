@@ -34,7 +34,7 @@
                 <mxCell id="23" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;labelBackgroundColor=#f8f7f7;strokeColor=#36393d;fontFamily=Courier New;fillColor=#eeeeee;rounded=1;" vertex="1" parent="1">
                     <mxGeometry x="275" y="284" width="30" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#3A5431;fontFamily=Courier New;fillColor=#6d8764;rounded=1;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="24" value="&lt;h3&gt;End&lt;/h3&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#3A5431;fontFamily=Courier New;fillColor=#6d8764;rounded=1;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
                     <mxGeometry x="240" y="332" width="100" height="60" as="geometry"/>
                 </mxCell>
             </root>
