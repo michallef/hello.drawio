@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="Bf_ch7QlUfcHxaChz7CV" name="Page-1">
+        <mxGraphModel dx="576" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="290" y="80" as="sourcePoint"/>
+                        <mxPoint x="290" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Ask the user to input 5 integer values.&lt;/font&gt;&lt;/h4&gt;&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Variable: num&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="120" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="200" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Before creating a while-loop, initialize the total variable value as well as the i value. total = 0, i = 0&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="240" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="320" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="430" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Create the while-loop starting off with while i &amp;lt; 5: then write the input code for the the variable num&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="360" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="550" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Use the formula, total += num, and i += 1, for the program to calculate the sum of the 5 integers&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="470" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;h4&gt;End&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="710" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;print the total, which will print out the sum of the 5 integer values&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="590" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="670" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="&lt;b&gt;Start&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="230" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
