@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="ciB9b8L8P_exbmGzQ125" name="Page-1">
+        <mxGraphModel dx="576" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="290" y="80" as="sourcePoint"/>
+                        <mxPoint x="290" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Ask the user to input a random integer value for the variable N&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="120" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="200" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Save all power numbers in the variable, result, as a list&lt;/font&gt;&lt;/h4&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;result=[]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="240" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="320" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="430" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Use a count-controlled loop (for-loop) and use the range function to range from 0 to N + 1 for the list&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="360" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="550" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Use a formula to calculate 2 to the power of i in the range N + 1, store it under the variable x&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="470" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;h4&gt;End&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="830" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Start&lt;/font&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Use the append method to have the result list contain all the powers to 2&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="590" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="670" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Print the end result by printing the variable x&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="710" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="790" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
