@@ -1,0 +1,82 @@
+<mxfile host="65bd71144e">
+    <diagram id="FigdttET8nqlk6Ii5_yV" name="Page-1">
+        <mxGraphModel dx="1426" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Start&lt;/font&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="265" y="130" as="sourcePoint"/>
+                        <mxPoint x="290" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&lt;h4&gt;Initalize the the total value and set up the variable, numbers, list&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="120" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=classic;html=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.5" y="200" as="sourcePoint"/>
+                        <mxPoint x="289.5" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="&lt;h4&gt;Set up the while loop. number=random.randint(0,100), numbers.append(number)&amp;nbsp;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="240" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=classic;html=1;fontFamily=Courier New;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="110" y="310" as="sourcePoint"/>
+                        <mxPoint x="120" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;fontFamily=Courier New;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="410" y="280" as="sourcePoint"/>
+                        <mxPoint x="460" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="&lt;h4&gt;If total + number &amp;gt; 100&lt;/h4&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="240" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;h4&gt;If total + number &amp;lt; 100&lt;/h4&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="240" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="29.5" y="320" as="sourcePoint"/>
+                        <mxPoint x="29.5" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=classic;html=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="549.5" y="320" as="sourcePoint"/>
+                        <mxPoint x="549.5" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="&lt;h4&gt;Break and print the sum, not including the last number that makes the sum over 100( total += number)&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="360" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;h4&gt;The program will continue on generating new numbers until the sum is over 100&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="360" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="endArrow=classic;html=1;fontFamily=Courier New;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="17" target="11">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270" y="380" as="sourcePoint"/>
+                        <mxPoint x="320" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=classic;html=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="440" as="sourcePoint"/>
+                        <mxPoint x="40" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="&lt;h4&gt;&lt;font face=&quot;Courier New&quot;&gt;Start&lt;/font&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-20" y="480" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
